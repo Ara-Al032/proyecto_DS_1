@@ -1,12 +1,10 @@
----
-
 # 📊 Análisis de Ventas para la Toma de Decisiones  
 **Proyecto para identificar la tienda óptima para vender, basado en datos históricos de ventas.**
 
 ---
 
 ## 📌 Propósito  
-Este proyecto analiza datos históricos de ventas de 4 tiendas para ayudar al Sr. Juan a decidir cuál es la mejor opción para vender su negocio. Los análisis incluyen:  
+Este proyecto analiza datos históricos de ventas de 4 tiendas para ayudar al Sr. Juan en Google Colab a decidir cuál es la mejor opción para vender su negocio. Los análisis incluyen:  
 - Ingresos totales por tienda.  
 - Categorías más y menos vendidas.  
 - Calificaciones promedio de clientes.  
